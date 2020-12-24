@@ -1,0 +1,57 @@
+Node(parent=-1, left=-1, right=-1, weight=5)
+ Node(parent=-1, left=-1, right=-1, weight=5)
+ Node(parent=-1, left=-1, right=-1, weight=2)
+ Node(parent=-1, left=-1, right=-1, weight=2)
+ Node(parent=-1, left=-1, right=-1, weight=1)
+ Node(parent=-1, left=-1, right=-1, weight=101)
+ Node(parent=-1, left=-1, right=-1, weight=101)
+ Node(parent=-1, left=-1, right=-1, weight=101)
+ Node(parent=-1, left=-1, right=-1, weight=101)
+ 
+smallest[0]: Node(parent=-1, left=-1, right=-1, weight=1)
+
+smallest[1]: Node(parent=-1, left=-1, right=-1, weight=2)
+
+smallest[0]: Node(parent=-1, left=-1, right=-1, weight=2)
+
+smallest[1]: Node(parent=-1, left=4, right=3, weight=3)
+
+smallest[0]: Node(parent=-1, left=2, right=5, weight=5)
+
+smallest[1]: Node(parent=-1, left=-1, right=-1, weight=5)
+
+smallest[0]: Node(parent=-1, left=-1, right=-1, weight=5)
+
+smallest[1]: Node(parent=-1, left=6, right=1, weight=10)
+
+Node(parent=8, left=-1, right=-1, weight=5)
+ Node(parent=7, left=-1, right=-1, weight=5)
+ Node(parent=6, left=-1, right=-1, weight=2)
+ Node(parent=5, left=-1, right=-1, weight=2)
+ Node(parent=5, left=-1, right=-1, weight=1)
+ Node(parent=6, left=4, right=3, weight=3)
+ Node(parent=7, left=2, right=5, weight=5)
+ Node(parent=8, left=6, right=1, weight=10)
+ Node(parent=-1, left=0, right=7, weight=15)
+ 
+9
+15
+1
+0
+left: 0
+right: 7
+2
+1
+left: 6
+right: 1
+2
+2
+left: 2
+right: 5
+2
+3
+left: 4
+right: 3
+2
+4
+33
